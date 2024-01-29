@@ -3,5 +3,3 @@ Examine the dataset with SQL and help the store understand its business growth b
 # Tool
 Postgre SQL
 PGAdmin4
-# Language
-SQL
